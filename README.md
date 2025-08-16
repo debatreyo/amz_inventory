@@ -17,7 +17,7 @@ Save your Amazon Inventory Ledger report as a .csv file.
 
 Run the script:
 ```
-python converter.py
+python inventory_ledger.py
 ```
 
 Enter the **full file path** when prompted.
